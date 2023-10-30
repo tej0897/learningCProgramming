@@ -1,0 +1,37 @@
+The Complete 2023 Web Development Bootcamp
+
+                    ******
+
+_______________________________________________________
+
+HTML: HyperText Markup Language
+
+What is The HTML Boilerplate?
+
+<!DOCTYPE html>     : tells which version of HTML
+<html lang="en">    : html opening tag with lang specified. language is mentioned for reading purposes.
+
+<head>
+    <meta charset="UTF-8">  : makes sure char we're using is displayed correctly.
+    <title> </title>        : displays title of website.
+</head>
+
+<body>
+    //content
+</body>
+
+</html>             : html closing tag
+
+_______________________________________________________
+
+Online Resources for info on HTML:
+    1. MDN - Mozilla Developer Network
+    2. W3Schools
+    3. devdocs.io
+
+_______________________________________________________
+
+Note:
+
+    Use "em" instead of "i".
+    Use "strong" instead of "bold".
