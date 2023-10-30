@@ -1,0 +1,37 @@
+The Complete 2023 Web Development Bootcamp
+
+                    ******
+
+Contents:
+
+    1. How does the internet work?
+    2. How does a Website work?
+
+
+_______________________________________________________
+
+How does the internet work?
+
+Two computers are connected via Wire. (Client and Server)
+
+One will be online 24/7 to serve us the requested data. Those are called servers.
+Client is the one making the requests.
+
+Client searches -> Internet Service Provider -> DNS (Domain Name Server) gets IP Address of Server -> sends IP Address to Client -> Client makes direct request to Server using this IP Address and Port Number -> Server gets the request and send back the requested Data.
+
+There are Big underwater cables that connects the entire world.
+
+https://www.submarinecablemap.com/
+
+_______________________________________________________
+
+How does a Website work?
+
+There are 3 files that build up a Website.
+1. HTML, CSS and JavaScript.
+
+    HTML        : Content of a website.
+    CSS         : Styling of a website.
+    JavaScript  : Functionality of a website.
+
+_______________________________________________________
